@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 30e9bc801827c898d1cc9628d9a73b27038e6be4
+header {
+    background-color: white;
+    height: 70px;
+    width: 100%;
+<<<<<<< HEAD
+    border-bottom: 1px solid #CCCCCC;
+    display: flex;
+    align-items: center;
+}
+
+header .logo {
+    width: 142px;
+    height: 60px;
+    background: url("../images/logo.png") no-repeat center;
+    padding-left: 20px;
+}
+=======
+    border-bottom: 1px solid #cccccc;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 140px;
+    height: 50px;
+    background: url('../images/logo.png') no-repeat center;
+    padding-left: 20px;
+  }
+>>>>>>> 30e9bc801827c898d1cc9628d9a73b27038e6be4

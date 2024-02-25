@@ -1,0 +1,24 @@
+footer {
+<<<<<<< HEAD
+	background-color: white;
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid #CCCCCC;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	bottom: 0;
+}
+=======
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid #cccccc;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+>>>>>>> 30e9bc801827c898d1cc9628d9a73b27038e6be4

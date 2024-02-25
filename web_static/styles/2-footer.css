@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+footer{
+    Background-color:#00FF00;
+    height:60px;
+    width:100%;
+    position: absolute;
+    bottom:0;
+    text-align:center;
+    line-height:60px
+=======
+footer {
+    background-color: #00ff00;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+    display: flex;
+    position:fixed;
+    justify-content: center;
+>>>>>>> 30e9bc801827c898d1cc9628d9a73b27038e6be4
+}
